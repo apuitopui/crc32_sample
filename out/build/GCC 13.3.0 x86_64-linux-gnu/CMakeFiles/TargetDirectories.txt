@@ -1,0 +1,6 @@
+/home/apollo/dev/crc/crc32_sample/out/build/GCC 13.3.0 x86_64-linux-gnu/CMakeFiles/crc_test.dir
+/home/apollo/dev/crc/crc32_sample/out/build/GCC 13.3.0 x86_64-linux-gnu/CMakeFiles/edit_cache.dir
+/home/apollo/dev/crc/crc32_sample/out/build/GCC 13.3.0 x86_64-linux-gnu/CMakeFiles/rebuild_cache.dir
+/home/apollo/dev/crc/crc32_sample/out/build/GCC 13.3.0 x86_64-linux-gnu/crc/CMakeFiles/crc.dir
+/home/apollo/dev/crc/crc32_sample/out/build/GCC 13.3.0 x86_64-linux-gnu/crc/CMakeFiles/edit_cache.dir
+/home/apollo/dev/crc/crc32_sample/out/build/GCC 13.3.0 x86_64-linux-gnu/crc/CMakeFiles/rebuild_cache.dir

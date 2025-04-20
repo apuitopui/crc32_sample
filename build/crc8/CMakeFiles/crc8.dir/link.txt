@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcrc8.a CMakeFiles/crc8.dir/crc8.c.o
+/usr/bin/ranlib libcrc8.a

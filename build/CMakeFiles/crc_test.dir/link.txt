@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/crc_test.dir/main.c.o -o crc_test  crc8/libcrc8.a 

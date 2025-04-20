@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/crc_test.dir/main.c.o -o crc_test  crc/libcrc.a 
