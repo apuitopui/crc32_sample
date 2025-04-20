@@ -1,6 +1,0 @@
-/home/apollo/dev/crc/crc_test/build/CMakeFiles/crc_test.dir
-/home/apollo/dev/crc/crc_test/build/CMakeFiles/edit_cache.dir
-/home/apollo/dev/crc/crc_test/build/CMakeFiles/rebuild_cache.dir
-/home/apollo/dev/crc/crc_test/build/crc8/CMakeFiles/crc8.dir
-/home/apollo/dev/crc/crc_test/build/crc8/CMakeFiles/edit_cache.dir
-/home/apollo/dev/crc/crc_test/build/crc8/CMakeFiles/rebuild_cache.dir
